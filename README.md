@@ -44,12 +44,14 @@ Version Control	Git & GitHub (Organization: PakAgents-AIGenesis)
 Develop an autonomous AI agent capable of retrieving and summarizing live information.
 Build a multi-agent ecosystem demonstrating teamwork between AI modules.
 Deliver a front-end interface that showcases results visually and interactively.
+https://github.com/PakAgents-AIGenesis/pakagents-hackathon-project.git on this link there is whole documentation and Summary of Project.
+
 
 ⚙️ Setup Instructions
 
 Clone the repo
 
-git clone https://github.com/PakAgents-AIGenesis/pakagents-hackathon-project.git
+git clone (https://github.com/PakAgents-AIGenesis/AI-Powerd-Paper-generator)
 cd pakagents-hackathon-project
 
 Create a virtual environment
